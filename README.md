@@ -72,6 +72,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🔵 [**Hugging Face Inference**](https://huggingface.co/inference-api) | All public models | Rate-limited | Varies | Slow-Moderate | Best open-source hub |
 | 🟤 [**Novita AI**](https://novita.ai) | Llama + others | $0.50 credit | 128K | Fast | Renews monthly |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ models | Free models available | Varies | Varies | Single API for all |
+| ⚫ [**onomeo**](https://onomeo.com) | 36 rotating models (DeepSeek V4.1 Flash, GLM-5.2, Qwen3.5-397B-A17B, Gemini 3.1 Flash-Lite, gpt-oss-120b) | Small — daily check-in ladder 1,200 → 3,500 credits/day (7-day streak; miss a day, back to 1,200). Credits count characters, not calls: 1 CJK char = 1, 4 other chars = 1, prompt + reply combined. So 3,500/day ≈ 1 call on Qwen3.5-397B-A17B, ≈4 on GLM-5.2, ≈6 on DeepSeek V4.1 Flash, ≈200 on gpt-oss-120b or Gemini 3.1 Flash-Lite | Varies | Unknown (not benchmarked) | Use with care — tight caps: 12 req/min per key, 60 req/5h per account, 120 req/5h per IP, plus a 450 req/5h shared pool for the whole site that can be full at peak. OpenAI-compatible gateway at `https://onomeo.com/v1`, no credit card and no ID check. Anthropic-format `/v1/messages` accepts only `my/`-prefixed models (your own upstream keys), so it cannot run on the free credits. Live limits and model list: [/api/info](https://onomeo.com/api/info) · [docs](https://onomeo.com/docs) |
 
 ---
 
