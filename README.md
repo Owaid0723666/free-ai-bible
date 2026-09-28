@@ -72,7 +72,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🔵 [**Hugging Face Inference**](https://huggingface.co/inference-api) | All public models | Rate-limited | Varies | Slow-Moderate | Best open-source hub |
 | 🟤 [**Novita AI**](https://novita.ai) | Llama + others | $0.50 credit | 128K | Fast | Renews monthly |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ models | Free models available | Varies | Varies | Single API for all |
-| ⚫ [**onomeo**](https://onomeo.com) | 47 models (DeepSeek V4 Flash, GLM-5.2, Gemini 3.7 Flash, gpt-oss-120b) | Small — daily check-in 50K credits on day 1 → 200K/day from day 7 | Varies | Unknown | Public beta, feedback welcome. Strict limits: 12 req/min, 60 req/5h per account, 450 req/5h site-wide pool. No CC; optional $5 one-time purchase |
+| ⚫ [**onomeo**](https://onomeo.com) | 47 models (DeepSeek V4 Flash, GLM-5.2, Gemini 3.7 Flash, gpt-oss-120b) | Small — 35 free models use no credits; daily check-in 20K credits on day 1 → 50K/day from day 7 for the 12 larger models | Varies | Unknown | Public beta, feedback welcome. Strict limits: 12 req/min, 60 req/5h per account, 450 req/5h site-wide pool. No CC; optional $5/month subscription |
 
 ---
 
